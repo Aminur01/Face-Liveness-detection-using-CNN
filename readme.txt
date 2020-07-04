@@ -1,5 +1,7 @@
 short description
 
+-> Dataset used - NUAA imposter dataset.
+
 -> This directory contains face images output by a face detector. There are 5105 client images and 7509 imposter images in total. Images from each subject are stored in a separate directory.
 
 -> For the Project perpose i have used 15 images of 10 classes from the both client and imposter images.which is in the  dir 1 directory
